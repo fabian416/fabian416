@@ -2,7 +2,7 @@
 
 - 🔭 **Software Developer** based in 📍 **Buenos Aires, ARG**.
 - 🌱 I’m currently learning Python on Udemy.
-- 💬 Ask me about web3 projects, I'm passionate about promoting digital inclusion.
+- 💬 🌱 I'm continuously learning and deeply interested in web3 projects that aim to advance financial inclusion for everyone.
 - 📫 How to reach me: [diazfabianjulio2014@gmail.com](mailto:diazfabianjulio2014@gmail.com) | 📞 (+54) 11 2694-5734
 - ⚡ Fun fact: I've co-founded a vacuum-sealed, ultra-frozen, healthy meals company called Cubi.
 
