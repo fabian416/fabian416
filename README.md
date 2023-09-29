@@ -27,6 +27,6 @@
 
 ---
 
-🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/fabian-diaz-425a69227/) | [Twitter](https://twitter.com/Fabian_diaz222)]
+🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/fabian-diaz-425a69227/) | [Twitter](https://twitter.com/Fabian_diaz222)
 
 
