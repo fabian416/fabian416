@@ -1,8 +1,11 @@
 ### Hi there, I'm Fabian Diaz 👋
 
-- 🔭 **Software Developer** based in 📍 **Buenos Aires, ARG**.
-- 🌱 I’m currently learning Python on Udemy.
-- 💬 🌱 I'm continuously learning and deeply interested in web3 projects that aim to advance financial inclusion for everyone.
+🔭 **Software Developer** based in 📍 **Buenos Aires, ARG**.
+
+#### About me
+- 💬 I'm a software developer with a keen interest in web3 projects that aim to advance financial inclusion. 
+- 🌱 I have an entrepreneurial spirit and am passionate about solving problems, adding significant value to the projects I engage with. 
+- 📘 Additionally, I have a deep appreciation for history and enjoy diving into its intricacies.
 - 📫 How to reach me: [diazfabianjulio2014@gmail.com](mailto:diazfabianjulio2014@gmail.com) | 📞 (+54) 11 2694-5734
 - ⚡ Fun fact: I've co-founded a vacuum-sealed, ultra-frozen, healthy meals company called Cubi.
 
