@@ -4,20 +4,21 @@
 
 #### About me
 - 💬 I'm a software developer with a keen interest in web3 projects that aim to advance financial inclusion. 
-- 🌱 I have an entrepreneurial spirit and am passionate about solving problems, adding significant value to the projects I engage with. 
+- 🌱 Faithful believer in learning by building.
 - 📘 Additionally, I have a deep appreciation for history and enjoy diving into its intricacies.
 - 📫 How to reach me: [diazfabianjulio2014@gmail.com](mailto:diazfabianjulio2014@gmail.com) | 📞 (+54) 11 2694-5734
 - ⚡ Fun fact: I've co-founded a vacuum-sealed, ultra-frozen, healthy meals company called Cubi.
 
 #### Skills
-- **Programming**: Python, Javascript, Solidity, TypeScript, React-Native
+- **Programming**: Solidity, Rust, Typescript
 - **Platforms & Tools**: AWS, GraphQL
 
 #### Work Experience
+- **Guido Motos** (Jan. 2024 – Dec. 2024): Blockchain Developer. Designed and deployed smart contracts across EVM (ERC-20, ERC-721, ERC-1155) and Solana (SPL)
 - **Guido Motos** (Mar. 2020 – Nov. 2022): E-commerce Manager. Achieved ‘Lider Gold’ status on MercadoLibre in a year.
-- **Cubi** (Apr. 2019 – Nov. 2019): Co-founder. Managed production, sales, and collaborations with influencers.
-
+  
 #### Projects
+- **[Squary - Aleph Argentina Hackaton](https://squary.xyz/)** (Dec 2024): Cost sharing Dapp. Won third place in zkSync track.
 - **[TarEagle - Ethereum Argentina Buildathon](https://github.com/TarEagle)** (Jul. - Sep. 2023): Developed using Hardhat & Solidity.
 - **[Roi-Market](https://github.com/fabian416/roimarket)** (Feb. – May. 2023): Virtual supermarket game with Unity.
 - **[In-Time](https://github.com/fabian416/InTime)** (Dec. 2022 – Jan. 2023): Geofencing project with React Native.
