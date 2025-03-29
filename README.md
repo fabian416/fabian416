@@ -7,8 +7,7 @@
 - 🌱 Faithful believer in learning by building.
 - 📘 Additionally, I have a deep appreciation for history and enjoy diving into its intricacies.
 - 📫 How to reach me: [diazfabianjulio2014@gmail.com](mailto:diazfabianjulio2014@gmail.com) | 📞 (+54) 11 2694-5734
-- ⚡ Fun fact: I've co-founded a vacuum-sealed, ultra-frozen, healthy meals company called Cubi.
-
+  
 #### Skills
 - **Programming**: Solidity, Rust, Typescript
 - **Platforms & Tools**: AWS, GraphQL
