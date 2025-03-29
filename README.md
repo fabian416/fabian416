@@ -19,6 +19,7 @@
 - **Web3 Studios** (Jan. 2024 – jan. 2025): Blockchain Developer. Designed and deployed smart contracts across EVM (ERC-20, ERC-721, ERC-1155) and Solana (SPL)
   
 #### Projects
+- **[Metacitizen - ZkSync Hackaton]** (Mar 2025): Won first place ZkSync track. Project focus on on-chain identity.
 - **[Squary - Aleph Argentina Hackaton](https://squary.xyz/)** (Dec 2024): Cost sharing Dapp. Won third place in zkSync track.
 - **[TarEagle - Ethereum Argentina Buildathon](https://github.com/TarEagle)** (Jul. - Sep. 2023): Developed using Hardhat & Solidity.
 - **[Roi-Market](https://github.com/fabian416/roimarket)** (Feb. – May. 2023): Virtual supermarket game with Unity.
