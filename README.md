@@ -16,7 +16,8 @@
 **RentFi Protocol** (Jan. 2025 – Mar. 2025):
 - Developed and deployed tokens with automated transaction fees on Solana.
 - Designed and deployed vesting contracts for the RENT token with cliff period and linear unlocks.
-**Web3 Studios** (Jan. 2024 – jan. 2025):
+  
+**Web3 Studios** (Jan. 2024 – Jan. 2025):
 - Blockchain Developer. Designed and deployed smart contracts across EVM (ERC-20, ERC-721, ERC-1155) and Solana (SPL)
   
 #### Projects
